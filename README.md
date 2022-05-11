@@ -1,4 +1,4 @@
-## Olá eu sou Guilherme de Agostin 👋!
+## Olá eu sou Guilherme de Agostin! 👋
 
 - 🔭 Atualmente trabalho como Desenvolvedor Full Stack Júnior;
 - 🌱 Estou cursando o último ano do curso superior de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi;
