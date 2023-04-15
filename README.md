@@ -1,6 +1,6 @@
 ## Olá eu sou Guilherme de Agostin! 👋
 
-- 🔭 Atualmente trabalho como Desenvolvedor Full Stack Júnior;
+  - 🔭 Atualmente trabalho como Desenvolvedor Full Stack Pleno;
 - 🌱 Estou cursando o último ano do curso superior de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi;
 - 📫 Como me contatar: guilhermeagostin@gmail.com
 - ⚡ Curiosidades: gosto bastante da área de mecatrônica e nas horas vagas tenho estudado e desenvolvido softwares que utilizam simultaneamente Inteligência Artificial e microcontroladores/ microprocessadores (Arduino, RaspberryPi e Sipped Maix Bit).
