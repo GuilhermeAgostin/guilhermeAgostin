@@ -1,6 +1,6 @@
-### Olá, eu sou o Guilherme de Agostin! 👋
+### Olá, eu sou o Guilherme de Agostin! 
 
-### **Full Stack Developer | IoT & AI Solutions**
+### **👨‍💻 Full Stack Developer | IoT & AI Solutions**
 
 Sou um desenvolvedor focado em resolver problemas através do uso de software de alta performance e também hardware. Sólida experiência no ecossistema C# | .NET, HTML | CSS | JavaScript , com foco em criar arquiteturas escaláveis, sempre com um olhar atento à acessibilidade e experiência do usuário. Atualmente, foco meus esforços no desenvolvimento de tecnologias assistivas, unindo **Inteligência Artificial** e **Sistemas Embarcados** para devolver autonomia a pessoas com deficiência visual.
 
