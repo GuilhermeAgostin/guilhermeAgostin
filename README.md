@@ -1,17 +1,31 @@
-## Olá eu sou Guilherme de Agostin! 👋
+### Olá, eu sou o Guilherme de Agostin! 👋
 
-  - 🔭 Atualmente trabalho como Desenvolvedor Full Stack Pleno;
-- 🌱 Estou cursando o último ano do curso superior de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi;
-- 📫 Como me contatar: guilhermeagostin@gmail.com
-- ⚡ Curiosidades: gosto bastante da área de mecatrônica e nas horas vagas tenho estudado e desenvolvido softwares que utilizam simultaneamente Inteligência Artificial e microcontroladores/ microprocessadores (Arduino, RaspberryPi e Sipped Maix Bit).
+### **Full Stack Developer | IoT & AI Solutions**
 
-##
+Sou um desenvolvedor focado em resolver problemas através do uso de software de alta performance e também hardware. Sólida experiência no ecossistema C# | .NET, HTML | CSS | JavaScript , com foco em criar arquiteturas escaláveis, sempre com um olhar atento à acessibilidade e experiência do usuário. Atualmente, foco meus esforços no desenvolvimento de tecnologias assistivas, unindo **Inteligência Artificial** e **Sistemas Embarcados** para devolver autonomia a pessoas com deficiência visual.
 
-<div align="left">
-  <a href="https://github.com/GuilhermeAgostin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAgostin&show_icons=true&title_color=fff&icon_color=4EA6FF&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAgostin&layout=compact&langs_count=7&title_color=fff&icon_color=4EA6FF&text_color=9f9f9f&bg_color=151515&"/>
-</div>
+---
+
+### 🔭 No que estou trabalhando agora
+
+- **Project MSens (Assistive Tech):** Um wearable (relógio inteligente) focado em acessibilidade para deficientes visuais, utilizando microcontroladores, sensores e interface OLED 128x64. (Simplificação do meu projeto original de Visão Computacional).
+
+- **O Desafio:** Processar linguagem natural e fornecer feedback em tempo real em um hardware limitado.
+- **A Solução:** Integração de **ESP32** com **STT (Whisper)**, **NLU (Llama)** e **TTS (Piper)** via API em **.NET 8**.
+- **Hardware:** Microcontrolador ESP32, Feedback Háptico, IHM em OLED 128x64 e speaker.
+
+---
+
+### 🚀 Stack Tecnológica
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Backend & Cloud** | .NET (C#), Python, PostgreSQL, Docker, DevOps (CI/CD) |
+| **Frontend & Mobile** | React.js, TypeScript, Flutter, React Native, HTML, JavaScript, CSS |
+| **Hardware & IoT** | ESP32, Arduino, Sipeed Maix Bit, Raspberry Pi |
+| **Inteligência Artificial** | Processamento de Linguagem Natural (NLP) e Compreensão de Linguagem Natural (NLU) com Llama, STT (Whisper), Visão Computacional, Piper TTS |
+| **Prototipagem** | Impressão 3D, Eletrônica, Mecatrônica |
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Agostin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Agostin-DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
@@ -29,11 +43,18 @@
   <img align="center" alt="Agostin-RaspberryPi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
 
 </div>
-  
-  ##
- 
-<div> 
+
+---
+
+### 📫 Vamos construir algo?
+
+- **Email:** guilhermeagostin@gmail.com
+- <div> 
   
   <a href="https://www.linkedin.com/in/guilherme-agostin-90ba6169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+ 
+
